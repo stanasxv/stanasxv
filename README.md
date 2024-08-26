@@ -1,4 +1,3 @@
-![github-header-image (1)]()
 <img src="https://raw.githubusercontent.com/stanasxv/stanasxv/main/j.png" alt="j" width="40" height="40"/>
 
 
