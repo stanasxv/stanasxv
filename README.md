@@ -1,4 +1,4 @@
-![github-header-image (1)]()
+![github-header-image (1)](https://raw.githubusercontent.com/stanasxv/stanasxv/main/j.png)
 
 
 <p align="center">
@@ -8,7 +8,6 @@
 ---
 
 ### 🔭 I’m currently working on [ConyCord](https://conycord.com/)
-### 🌱 I’m currently learning **php**
 
 ### 👨‍💻 All of my projects are available on my [GitHub](https://github.com/stanasxv?tab=repositories)
 
@@ -29,11 +28,11 @@
   <a href="https://instagram.com/stanasx" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="by.can.i" height="30" width="40" />
   </a>
-  <a href="https://x.com/stanasx" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fastuptime" height="30" width="40" />
-  </a>
   <a href="https://www.youtube.com/@stanasx" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fastuptime" height="30" width="40" />
+  </a>
+  <a href="https://x.com/stanasx" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fastuptime" height="30" width="40" />
   </a>
 </p>
 
