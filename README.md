@@ -66,32 +66,6 @@
 
 ---
 
-<h3 align="center">👨‍💻 Github Stats</h3>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fastuptime&amp;theme=radical&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" alt=""><br>
-<img src="https://github-readme-stats.vercel.app/api?username=fastuptime&amp;theme=radical&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt="">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fastuptime&amp;theme=radical&amp;hide_border=false" alt="">
-</p>
-
----
-
-<h3 align="center">🎶Spotify</h3>
-
-<p align="center">
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=qgbw9tmglmdrl6yhktnx1x2bz&amp;redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=qgbw9tmglmdrl6yhktnx1x2bz&amp;cover_image=true&amp;theme=default&amp;show_offline=true&amp;background_color=121212&amp;interchange=false" alt="spotify-github-profile"></a>
-</p>
-
----
-
-<h3 align="center">200$ free credit for 60 days.</h3>
-
-<p align="center">
-<a href="https://www.digitalocean.com/?refcode=6f3ae13f128d&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge">
-<img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%202.svg"></img>
-</a>
-</p>
-
 <h3 align="center">
-All rights reserved 
+</stanasx>
 </h3>
