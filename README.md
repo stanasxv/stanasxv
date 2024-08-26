@@ -1,27 +1,27 @@
-![github-header-image (1)](https://github.com/user-attachments/assets/dd447a91-cab0-4522-826c-baa7c8777b7a)
+![github-header-image (1)]()
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fastuptime&label=Profile%20views&color=0e75b6&style=flat" alt="fastuptime" />
+  <img src="https://komarev.com/ghpvc/?username=stanasxv&label=Profile%20views&color=0e75b6&style=flat" alt="stanasxv" />
 </p>
 
 ---
 
-### 🔭 I’m currently working on [SpeedSMM](https://speedsmm.com/)
-### 🌱 I’m currently learning **Frameworks**
+### 🔭 I’m currently working on [ConyCord](https://conycord.com/)
+### 🌱 I’m currently learning **php**
 
-### 👨‍💻 All of my projects are available on my [GitHub](https://github.com/fastuptime?tab=repositories)
+### 👨‍💻 All of my projects are available on my [GitHub](https://github.com/stanasxv?tab=repositories)
 
 ### 💬 Ask me about:
 - **NodeJs**
-- **C#**
+- **Html**
+- **Css**
 - **MongoDB**
 - **MySql**
 - **Python**
 - **Php**
-- **Postman**
-
-### 📫 How to reach me: **fastuptime@gmail.com**
+- 
+### 📫 How to reach me: **stanasx@conycord.com**
 
 ---
 
@@ -76,22 +76,6 @@
 
 ---
 
-<h3 align="center">🏆 GitHub Trophies</h3>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=fastuptime&amp;theme=radical&amp;no-frame=false&amp;no-bg=true&amp;margin-w=4" alt="">
-</p>
-
----
-
-<h3 align="center">🔝 Top Contributed Repo</h3>
-
-<p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=fastuptime&amp;limit=5&amp;theme=radical&amp;combine_all_yearly_contributions=true" alt="">
-</p>
-
----
-
 <h3 align="center">🎶Spotify</h3>
 
 <p align="center">
@@ -99,13 +83,6 @@
 </p>
 
 ---
-
-<h3 align="center">🫶 Support</h3>
-
-<p align="center"><a href="https://www.buymeacoffee.com/fastuptime"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="fastuptime" /></a><a href="https://ko-fi.com/fastuptime"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="fastuptime" /></a></p><br><br>
-
----
-
 
 <h3 align="center">200$ free credit for 60 days.</h3>
 
