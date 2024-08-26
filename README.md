@@ -20,42 +20,20 @@
 - **MySql**
 - **Python**
 - **Php**
-- 
 ### 📫 How to reach me: **stanasx@conycord.com**
 
 ---
 
 <h3 align="left">📞 Connect with me:</h3>
 <p align="left">
-  <a href="https://codepen.io/bynightfirex" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="bynightfirex" height="30" width="40" />
-  </a>
-  <a href="https://dev.to/fastuptime" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="fastuptime" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/fastuptime" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fastuptime" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/canadam2023" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="canadam2023" height="30" width="40" />
-  </a>
-  <a href="https://stackoverflow.com/users/20887992" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20887992" height="30" width="40" />
-  </a>
-  <a href="https://codesandbox.com/fastuptime" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="fastuptime" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/by.can.i" target="blank">
+  <a href="https://instagram.com/stanasx" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="by.can.i" height="30" width="40" />
   </a>
-  <a href="https://www.youtube.com/@fastuptime" target="blank">
+  <a href="https://x.com/stanasx" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fastuptime" height="30" width="40" />
+  </a>
+  <a href="https://www.youtube.com/@stanasx" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fastuptime" height="30" width="40" />
-  </a>
-  <a href="https://discord.gg/RVCs3gP6q8" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="65exWz2dQ6" height="30" width="40" />
-  </a>
-  <a href="https://www.r10.net/profil/156201-bycaner.html" target="blank">
-    <img align="center" src="https://i.hizliresim.com/83pny2q.jpg" alt="r10.net" height="30" width="40" />
   </a>
 </p>
 
@@ -67,5 +45,4 @@
 ---
 
 <h3 align="center">
-</stanasx>
 </h3>
