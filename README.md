@@ -7,7 +7,7 @@
 
 ---
 
-### 🔭 I’m currently working on [ConyCord](https://conycord.com/)
+### 🔭 I’m currently working on [ConyCord](https://github.com/ConyCord)
 
 ### 👨‍💻 All of my projects are available on my [GitHub](https://github.com/stanasxv?tab=repositories)
 
