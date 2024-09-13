@@ -9,8 +9,6 @@
 
 ### 🔭 I’m currently working on [ConyCord](https://github.com/ConyCord)
 
-### 👨‍💻 All of my projects are available on my [GitHub](https://github.com/stanasxv?tab=repositories)
-
 ### 💬 Ask me about:
 - **NodeJs**
 - **Html**
@@ -19,11 +17,10 @@
 - **MySql**
 - **Python**
 - **Php**
-### 📫 How to reach me: **stanasx@conycord.com**
 
 ---
 
-<h3 align="left">📞 Connect with me:</h3>
+<h3 align="left">📞 Contact:</h3>
 <p align="left">
   <a href="https://instagram.com/stanasx" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="by.can.i" height="30" width="40" />
