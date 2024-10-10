@@ -1,4 +1,4 @@
-<img align="center" src="https://raw.githubusercontent.com/stanasxv/stanasxv/main/j.png" alt="j"/>
+<img align="center" src="https://raw.githubusercontent.com/stanasxv/stanasxv/main/j.png" alt="j" width="850px"/>
 
 
 <p align="center">
