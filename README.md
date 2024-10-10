@@ -9,11 +9,12 @@
 <p>
   <img align="center" src="https://lantern.rest/api/v1/users/298130883859316736?svg=1&theme=dark" alt="Lantern" width="850px"/>
 </p>
+
 ---
 
 ### 🔭 I’m currently working on [ConyCord](https://github.com/ConyCord)
 
-### 💬 Ask me about:
+### </>:
 - **NodeJs**
 - **Html**
 - **Css**
