@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/stanasxv/stanasxv/main/j.png" alt="j" width="90" height="90"/>
+<img align="center" src="https://raw.githubusercontent.com/stanasxv/stanasxv/main/j.png" alt="j" width="90" height="90"/>
 
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ### 🔭 I’m currently working on [ConyCord](https://github.com/ConyCord)
 
-### </>:
+### </>
 - **NodeJs**
 - **Html**
 - **Css**
