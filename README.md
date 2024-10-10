@@ -1,5 +1,6 @@
-<img align="center" src="https://raw.githubusercontent.com/stanasxv/stanasxv/main/j.png" alt="j" width="850px"/>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/stanasxv/stanasxv/main/j.png" alt="j" width="90" height="90"/>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=stanasxv&label=Profile%20views&color=0e75b6&style=flat" alt="stanasxv" />
