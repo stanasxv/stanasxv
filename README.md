@@ -7,7 +7,7 @@
 
 ---
 <p>
-  <img align="center" src="https://lantern.rest/api/v1/users/682607343707488388?svg=1&theme=dark" alt="Lantern" width="850px"/>
+  <img align="center" src="https://lantern.rest/api/v1/users/298130883859316736?svg=1&theme=dark" alt="Lantern" width="850px"/>
 </p>
 ---
 
